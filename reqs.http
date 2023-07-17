@@ -8,7 +8,9 @@ POST {{emp}}
 Content-Type: application/json
 
 {
-    "firstName": "Bilbo",
-    "lastName": "Baggins",
-    "description": "burglar"
+    "firstName": "raul",
+    "lastName": "quijua",
+    "description": "estudiante"
 }
+
+
