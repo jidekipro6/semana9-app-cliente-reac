@@ -1,6 +1,6 @@
 @server = https://jidekipro6-ominous-journey-w594gp5grqwc5vr7-8080.preview.app.github.dev
 
-@emp={{server}}/api//employees
+@emp = {{server}}/api/employees
 ###
 GET {{emp}}
 ###
